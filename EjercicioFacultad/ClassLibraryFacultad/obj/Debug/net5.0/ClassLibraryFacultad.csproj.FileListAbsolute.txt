@@ -1,0 +1,11 @@
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\bin\Debug\net5.0\ClassLibraryFacultad.deps.json
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\bin\Debug\net5.0\ClassLibraryFacultad.dll
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\bin\Debug\net5.0\ref\ClassLibraryFacultad.dll
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\bin\Debug\net5.0\ClassLibraryFacultad.pdb
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.AssemblyInfoInputs.cache
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.AssemblyInfo.cs
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.csproj.CoreCompileInputs.cache
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.dll
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ref\ClassLibraryFacultad.dll
+C:\Users\timea\source\repos\EjercicioFacultad\EjercicioFacultad\ClassLibraryFacultad\obj\Debug\net5.0\ClassLibraryFacultad.pdb
